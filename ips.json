@@ -96,24 +96,6 @@
 
         ]
 
-    },
-
-    {
-
-        "name": "stackmonitor",
-
-        "label": "StackMonitor.io IPs",
-
-        "description": "",
-
-        "ips": [
-
-            "194.156.79.5/32",
-
-            "194.156.79.7/32"
-
-        ]
-
     }
 
 ]
